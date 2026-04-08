@@ -1,0 +1,3 @@
+# Grosse Binaerdateien (Docker-Image-Exports, RPM-Pakete)
+*.tar
+*.rpm
